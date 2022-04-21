@@ -1,0 +1,12 @@
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\bin\Debug\DAO.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\bin\Debug\DAO.pdb
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\obj\Debug\DAO.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\obj\Debug\DAO.pdb
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\bin\Debug\DAO.dll
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\bin\Debug\DAO.pdb
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\obj\Debug\DAO.dll
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,24 @@
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Mapeadores.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Mapeadores.pdb
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\DAO.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Entidades.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Interfaces.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\DAO.pdb
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Entidades.pdb
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Interfaces.pdb
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.csprojAssemblyReference.cache
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.csproj.CoreCompileInputs.cache
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.csproj.CopyComplete
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.pdb
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Mapeadores.dll
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Mapeadores.pdb
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\DAO.dll
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Entidades.dll
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\DAO.pdb
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\bin\Debug\Entidades.pdb
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.csproj.AssemblyReference.cache
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.csproj.CoreCompileInputs.cache
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.csproj.CopyComplete
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.dll
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\Mapeadores\obj\Debug\Mapeadores.pdb

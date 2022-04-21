@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<Datos>
+  <xs:schema id="Datos" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Datos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Auto">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Patente" type="xs:string" />
+                <xs:element name="Año" type="xs:int" minOccurs="0" />
+                <xs:element name="FechaIngreso" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="FechaBaja" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Valor" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Auto" />
+        <xs:field xpath="Patente" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Auto>
+    <Patente>2</Patente>
+    <Año>2</Año>
+    <FechaIngreso>2010-02-02T00:00:00-03:00</FechaIngreso>
+    <FechaBaja>2999-01-01T00:00:00-03:00</FechaBaja>
+    <Valor>4</Valor>
+  </Auto>
+  <Auto>
+    <Patente>9</Patente>
+    <Año>8</Año>
+    <FechaIngreso>2010-01-01T00:00:00-03:00</FechaIngreso>
+    <FechaBaja>2999-01-01T00:00:00-03:00</FechaBaja>
+    <Valor>4</Valor>
+  </Auto>
+  <Auto>
+    <Patente>8</Patente>
+    <Año>2005</Año>
+    <FechaIngreso>2015-02-02T00:00:00-03:00</FechaIngreso>
+    <FechaBaja>2021-07-02T00:00:00-03:00</FechaBaja>
+    <Valor>555</Valor>
+  </Auto>
+  <Auto>
+    <Patente>22</Patente>
+    <Año>2005</Año>
+    <FechaIngreso>2010-02-02T00:00:00-03:00</FechaIngreso>
+    <FechaBaja>2999-01-01T00:00:00-03:00</FechaBaja>
+    <Valor>5000</Valor>
+  </Auto>
+</Datos>

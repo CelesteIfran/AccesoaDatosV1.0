@@ -1,0 +1,18 @@
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\bin\Debug\ServicioValidacionVista.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\bin\Debug\ServicioValidacionVista.pdb
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\bin\Debug\Entidades.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\bin\Debug\Entidades.pdb
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.csprojAssemblyReference.cache
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.csproj.CoreCompileInputs.cache
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.csproj.CopyComplete
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.dll
+C:\Users\Legion\iCloudDrive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.pdb
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\bin\Debug\ServicioValidacionVista.dll
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\bin\Debug\ServicioValidacionVista.pdb
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\bin\Debug\Entidades.dll
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\bin\Debug\Entidades.pdb
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.csproj.AssemblyReference.cache
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.csproj.CoreCompileInputs.cache
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.csproj.CopyComplete
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.dll
+D:\cele\iCloud Drive\Documentos\Lenguajes de última generación\Parcial I\AccesoaDatosV1.0\ServicioValidacionVista\obj\Debug\ServicioValidacionVista.pdb
